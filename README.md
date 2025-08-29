@@ -33,26 +33,12 @@
 
 <h1> A Fact 🔥</h1>
 <p align="center">
-<H3> I am a die-hard JavaScript Fangirl and one thing you should know about JavaScript is :</H3>
+<H3> I am a die-hard JavaScript Fangirl and one thing you should know about JavaScript is:</H3>
 <H5>“JavaScript is the only language that I’m aware of that people feel they don’t need to learn before they start using it.” — Douglas Crockford</H5>
 
-<img height="200" src="https://raw.githubusercontent.com/Rahulfordev/img-file/main/exampul.webp"/>  
 </p>
 
 ---
-
-### Pictorial Representation of What I try to do and What I end Up Doing 😜 
-
-<a href="#">
-  <img align="left" width="200" src="https://github.com/Rahulfordev/img-file/blob/main/black.png" />
-</a>
-
-<a href="#">
-  <img align="right" width="200" src="https://github.com/Rahulfordev/img-file/blob/main/white.png" />
-</a>
-
----
-
 ## ⚡ TechStack
 
 #### Front-end
