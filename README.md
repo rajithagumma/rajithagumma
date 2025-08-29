@@ -63,3 +63,17 @@
 #### VCS
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+## 📈 Stats
+<a href="#">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=rajithagumma&show_icons=true&count_private=true&theme=github_dark&bg_color=00000000&border_radius=6px&border_color=30363d" width="50.5%" />
+</a>
+
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajithagumma&count_private=true&theme=github_dark&layout=compact&bg_color=00000000&border_radius=6px&border_color=30363d" width="42%" />
+</a>
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+<p align="center">Made with ❤️ by Rajitha</p>
