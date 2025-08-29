@@ -21,12 +21,6 @@
 <a href="https://www.linkedin.com/in/gumma-rajitha/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-<a href="https://www.codechef.com/users/your_codechef_id" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
-</a>
-<a href="https://atcoder.jp/users/your_atcoder_id" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/atcoder.svg" alt="AtCoder" height="30" width="40" />
-</a>
 </p>
 
 ---
@@ -52,6 +46,8 @@
 
 #### Database
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 #### Others
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
